@@ -1,8 +1,8 @@
 ### Hi there 👋
 # Info
-* 🏫 ShenZhen University
-* 🛩️ blog https://blog.csdn.net/NP_hard
-* 🔍 Interest: database & distributed system & machine learning
+* 🏫 ShenZhen University-CSSE-CS
+* 🛩️ Blog https://blog.csdn.net/NP_hard
+* 🔍 Interest: Database-kernel & Distributed-System & Machine-Learning
 
 # Overview
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-deng-yeah&show_icons=true&theme=radical)
