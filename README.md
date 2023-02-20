@@ -1,8 +1,7 @@
-### Hi there 👋
 # Info
-* 🏫 ShenZhen University-CSSE-CS
+* 🏫 ShenZhen University - Computer Science
 * 🛩️ Blog https://blog.csdn.net/NP_hard
-* 🔍 Interest: Database-Kernel & Distributed-System & Machine-Learning
+* 🔍 Interest: Database-Kernel & Distributed-System & Machine-Learning & Anime
 
 ![final](https://user-images.githubusercontent.com/65102150/217880788-745857d5-486f-4b42-9a96-d9063d430807.jpg)
 
