@@ -1,7 +1,8 @@
 # Profile
-* 🏫 ShenZhen University - Computer Science
+* 🏫 ShenZhen University - Computer Science - Bachelor
+* 🎓 The Hong Kong Polytechnic University - Data Science - Master
 * 🛩️ Blog https://blog.csdn.net/NP_hard
-* 🔍 Interest: Database-Kernel & Distributed-System & Machine-Learning & Anime
+* 🔍 Interest: Database-Kernel & Distributed-System & Machine-Learning
 
 ![final](https://user-images.githubusercontent.com/65102150/217880788-745857d5-486f-4b42-9a96-d9063d430807.jpg)
 
