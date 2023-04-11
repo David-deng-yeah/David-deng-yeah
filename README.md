@@ -1,6 +1,6 @@
 # Profile
 * 🏫 ShenZhen University - Computer Science - Bachelor
-* 🎓 The Hong Kong Polytechnic University - Data Science - Master
+* 🎓 National University of Singapore - Intelligent System - Master
 * 🛩️ Blog https://blog.csdn.net/NP_hard
 * 🔍 Interest: Database-Kernel & Distributed-System & Machine-Learning
 
