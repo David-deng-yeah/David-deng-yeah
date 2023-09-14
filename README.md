@@ -3,9 +3,6 @@
 * 🛩️ Blog https://blog.csdn.net/NP_hard
 * 🔍 Interest: Database-Kernel & Cloud Native/DevOps & AI 
 
-
-![contributions](https://user-images.githubusercontent.com/65102150/217880077-9387f79c-1c7b-4227-bcce-a794c0ed192b.svg)
-
 # Overview
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=David-deng-yeah&show_icons=true&theme=radical)
 
