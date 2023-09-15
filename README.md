@@ -24,8 +24,9 @@
 * **Performance Optimization:** Using Jmeter and pprof tools, the video leaderboard on the home page of the website has been tested and iterated with three stress tests, from the sorting of videos based on MySQL and go Map to the final choice of redis Zset for implementation, the 95th percentile of the leaderboard response time with the Throughput is optimized from 2922ms and 47.47qps to 183ms and 73.607qps, which is an improvement of 93.73% and 55.06% respectively
 
 
+![微信图片_20230908000144](https://github.com/David-deng-yeah/David-deng-yeah/assets/65102150/1e56e91f-53af-46a0-bc6d-e045aaed9301)
 
-![4d365cb5e9ed565fc4112093e6f0f620 (2)](https://github.com/David-deng-yeah/David-deng-yeah/assets/65102150/18985327-2412-4bd7-89b9-92cedfda1dc4)
+
 
 
 
@@ -36,5 +37,5 @@
 * **Microservices Architecture Design:** Adopting the single-case pattern, a manager class is defined in each microservice to manage three resources: database, cache and object storage.
 * Using Redis to cache hot data such as video like information, video URL.; Using MySQL to persist the cold data; add random offsets for the expiration time of the hot data to alleviate the cache avalanche problem
 
-![4d365cb5e9ed565fc4112093e6f0f620 (1)](https://github.com/David-deng-yeah/David-deng-yeah/assets/65102150/7ebb4843-be37-4031-8702-d98f7345814b)
+![4d365cb5e9ed565fc4112093e6f0f620 (2)](https://github.com/David-deng-yeah/David-deng-yeah/assets/65102150/18985327-2412-4bd7-89b9-92cedfda1dc4)
 
