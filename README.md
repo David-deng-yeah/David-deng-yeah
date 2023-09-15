@@ -22,7 +22,10 @@
 * Log Monitoring and Alerting: Use the logrus framework to encapsulate logs and use middleware to intercept log messages and send them to RabbitMQ for logging. Based on Prometheus and Grafana to achieve monitoring alerts and metrics visualization, such as CPU occupancy, QPS, and so on.
 * **Automated Deployment:** project to automate build, test and deployment. With dependency format checking, code format checking, code static checking and so on.
 * **Performance Optimization:** Using Jmeter and pprof tools, the video leaderboard on the home page of the website has been tested and iterated with three stress tests, from the sorting of videos based on MySQL and go Map to the final choice of redis Zset for implementation, the 95th percentile of the leaderboard response time with the Throughput is optimized from 2922ms and 47.47qps to 183ms and 73.607qps, which is an improvement of 93.73% and 55.06% respectively
-![微信图片_20230908000144](https://github.com/David-deng-yeah/David-deng-yeah/assets/65102150/9788cbae-5a47-4be5-8aa1-c7849b86c142)
+
+
+<img src="![微信图片_20230908000144](https://github.com/David-deng-yeah/David-deng-yeah/assets/65102150/9788cbae-5a47-4be5-8aa1-c7849b86c142)" width="30" height="30" />
+
 
 
 ## Simple Tiktok - ByteDance Youth Training CampSimple Tiktok - ByteDance Youth Training Camp
