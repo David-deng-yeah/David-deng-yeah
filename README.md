@@ -33,5 +33,6 @@
 * **Work content:** Use JWT for user token validation, Consul for service discovery and service registration, as well as KV reading of configuration files, and Gorm for ORM operations on MySQL.
 * **Microservices Architecture Design:** Adopting the single-case pattern, a manager class is defined in each microservice to manage three resources: database, cache and object storage.
 * Using Redis to cache hot data such as video like information, video URL.; Using MySQL to persist the cold data; add random offsets for the expiration time of the hot data to alleviate the cache avalanche problem
+
 ![4d365cb5e9ed565fc4112093e6f0f620 (1)](https://github.com/David-deng-yeah/David-deng-yeah/assets/65102150/7ebb4843-be37-4031-8702-d98f7345814b)
 
