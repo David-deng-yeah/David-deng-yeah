@@ -24,7 +24,9 @@
 * **Performance Optimization:** Using Jmeter and pprof tools, the video leaderboard on the home page of the website has been tested and iterated with three stress tests, from the sorting of videos based on MySQL and go Map to the final choice of redis Zset for implementation, the 95th percentile of the leaderboard response time with the Throughput is optimized from 2922ms and 47.47qps to 183ms and 73.607qps, which is an improvement of 93.73% and 55.06% respectively
 
 
-![微信图片_20230908000144](https://github.com/David-deng-yeah/David-deng-yeah/assets/65102150/9788cbae-5a47-4be5-8aa1-c7849b86c142)
+
+![4d365cb5e9ed565fc4112093e6f0f620 (2)](https://github.com/David-deng-yeah/David-deng-yeah/assets/65102150/18985327-2412-4bd7-89b9-92cedfda1dc4)
+
 
 
 ## Simple Tiktok - ByteDance Youth Training CampSimple Tiktok - ByteDance Youth Training Camp
