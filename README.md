@@ -24,8 +24,7 @@
 * **Performance Optimization:** Using Jmeter and pprof tools, the video leaderboard on the home page of the website has been tested and iterated with three stress tests, from the sorting of videos based on MySQL and go Map to the final choice of redis Zset for implementation, the 95th percentile of the leaderboard response time with the Throughput is optimized from 2922ms and 47.47qps to 183ms and 73.607qps, which is an improvement of 93.73% and 55.06% respectively
 
 
-<img src="![微信图片_20230908000144](https://github.com/David-deng-yeah/David-deng-yeah/assets/65102150/9788cbae-5a47-4be5-8aa1-c7849b86c142)" width="30" height="30" />
-
+![微信图片_20230908000144](https://github.com/David-deng-yeah/David-deng-yeah/assets/65102150/9788cbae-5a47-4be5-8aa1-c7849b86c142)
 
 
 ## Simple Tiktok - ByteDance Youth Training CampSimple Tiktok - ByteDance Youth Training Camp
@@ -34,4 +33,5 @@
 * **Work content:** Use JWT for user token validation, Consul for service discovery and service registration, as well as KV reading of configuration files, and Gorm for ORM operations on MySQL.
 * **Microservices Architecture Design:** Adopting the single-case pattern, a manager class is defined in each microservice to manage three resources: database, cache and object storage.
 * Using Redis to cache hot data such as video like information, video URL.; Using MySQL to persist the cold data; add random offsets for the expiration time of the hot data to alleviate the cache avalanche problem
-![4d365cb5e9ed565fc4112093e6f0f620](https://github.com/David-deng-yeah/David-deng-yeah/assets/65102150/137919a3-54b1-4d0d-8dc3-4bf7af6061bb)
+![4d365cb5e9ed565fc4112093e6f0f620 (1)](https://github.com/David-deng-yeah/David-deng-yeah/assets/65102150/7ebb4843-be37-4031-8702-d98f7345814b)
+
