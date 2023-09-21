@@ -30,7 +30,7 @@
 
 
 
-## Simple Tiktok - ByteDance Youth Training CampSimple Tiktok - ByteDance Youth Training Camp
+## Simple Tiktok - ByteDance Youth Training Camp
 * timeline: Jan 2023 ~ Mar 2023
 * **Project description:** Implemented a minimalist version of Tiktok backend, with video push, video submission, video likes, video comments and other functions.
 * **Work content:** Use JWT for user token validation, Consul for service discovery and service registration, as well as KV reading of configuration files, and Gorm for ORM operations on MySQL.
