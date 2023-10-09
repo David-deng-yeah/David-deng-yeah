@@ -8,6 +8,13 @@
 
 # Recent projects
 
+## Operating System Engineering: MIT 6.S081
+* **timeline**: Sep 2023  ~  Now
+* **Project Description**: Read the xv6 source code to understand the technical implementation of the operating system and modify it to improve system performance.
+* Adds kernel page tables to user processes to speed up user-state and kernel-state information transfer.
+* Utilizing lazy allocation and Copy on-write fork techniques to equalize the time overhead of large blocks of memory and improve response times
+* Understand user-state kernel-state communication, add system calls such as mmap and unmmap, etc.
+
 ## PostgreSQL Source Code Retrofitting
 * **timeline**: Jul 2023 ~ Sep 2023
 * **Project description:** Deeply study the storage management, memory management, indexing, concurrency control and other technologies in PostgreSQL source code to realize the following functions:
