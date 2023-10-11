@@ -1,5 +1,5 @@
 # Profile
-* 🎓 19fall SZU CS -> 23fall NUS Intelligent System
+* 🎓 19fall SZU CS 👉 23fall NUS Intelligent System
 * 🛩️ Blog https://blog.csdn.net/NP_hard
 * 🔍 Interest: Database-Kernel & Cloud Native/DevOps & AI 
 
@@ -10,10 +10,11 @@
 
 ## Operating System Engineering: MIT 6.S081
 * **timeline**: Sep 2023  ~  Now
-* **Project Description**: Read the xv6 source code to understand the technical implementation of the operating system and modify it to improve system performance.
-* Adds kernel page tables to user processes to speed up user-state and kernel-state information transfer.
-* Utilizing lazy allocation and Copy on-write fork techniques to equalize the time overhead of large blocks of memory and improve response times
-* Understand user-state kernel-state communication, add system calls such as mmap and unmmap, etc.
+* **Project Description**: Read and use GDB tools to debug xv6 source code, understand the implementation of operating system-related technologies, and make modifications based on this to improve system performance.
+* Speed up system calls: Add kernel page tables to user processes to speed up user-level and kernel-level message passing.
+* Reducing lock contention: Reducing the lock granularity by performing CPU memory stealing and building hash tables, thus reducing the lock contention between the memory allocators and block caches, improving the system performance.
+* Utilize lazy allocation and cow fork techniques to spread the time overhead of large chunks of memory and improve response time.
+* Understand user-kernel communication and add several system calls such as mmap, munmap etc.
 
 ## PostgreSQL Source Code Retrofitting
 * **timeline**: Jul 2023 ~ Sep 2023
