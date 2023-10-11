@@ -1,7 +1,8 @@
 # Profile
 * 🎓 19fall SZU CS 👉 23fall NUS Intelligent System
 * 🛩️ Blog https://blog.csdn.net/NP_hard
-* 🔍 Interest: Database-Kernel & Cloud Native/DevOps & AI 
+* 🔍 Interest: Database-Kernel & Cloud Native/DevOps & AI
+* 📫 Contact me: hewen.deng@u.nus.edu
 
 # Overview
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=David-deng-yeah&show_icons=true&theme=radical)
