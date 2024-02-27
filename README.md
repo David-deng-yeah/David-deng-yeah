@@ -1,5 +1,4 @@
 # Profile
-* 🎓 19fall SZU CS 👉 23fall NUS Intelligent System
 * 🛩️ Blog https://blog.csdn.net/NP_hard
 * 🔍 Interest: Database-Kernel & Cloud Native/DevOps & AI
 * 📫 Contact me: hewen.deng@u.nus.edu
